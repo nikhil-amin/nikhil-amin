@@ -4,6 +4,15 @@
   <a href="https://nikhil-amin.github.io/"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Graduate;Full+Stack+Web+Developer;Pencil%20and%20Digital%20Artist;&center=true&width=500&height=50"></a>
 </p>
 
+## Skills
+
+![](https://img.shields.io/badge/Angular-informational?style=flat&logo=angular&logoColor=white&color=dd1b16)
+![](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=5382a1)
+![](https://img.shields.io/badge/Spring-informational?style=flat&logo=spring&logoColor=white&color=80ea6e)
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=306998)
+![](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&logoColor=white&color=8993be)
+
+
 ## Github Stats
 
 <p align="center">

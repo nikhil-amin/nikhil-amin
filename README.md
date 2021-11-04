@@ -34,10 +34,20 @@
 ## Connect with me
 
 <p align="center">
-	<a href="https://github.com/nikhil-amin"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a href="https://www.linkedin.com/in/nikhilamin073/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="https://github.com/nikhil-amin">
+		<img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/>
+	</a>
+	<a href="https://www.linkedin.com/in/nikhilamin073/">
+		<img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/>
+	</a>
 	<a href="https://www.facebook.com/nikhil.amin.73/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
-	<a href="https://www.instagram.com/nikhilamin073/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
-	<a href="https://twitter.com/nikhilamin073"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
-  <!--<a href=""><img alt="discord" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/discord.png"/></a>-->
+	<a href="https://www.instagram.com/nikhilamin073/">
+		<img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/>
+	</a>
+	<a href="https://twitter.com/nikhilamin073">
+		<img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/>
+	</a>
+  	<a href="https://discord.gg/v26B9uB">
+		<img alt="discord" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/discord.png"/>
+	</a>
 </p>

@@ -6,11 +6,19 @@
 
 ## Skills
 
+![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&color=e34c26)
+![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=white&color=264de4)
+![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=563d7c)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=f0db4f)
 ![](https://img.shields.io/badge/Angular-informational?style=flat&logo=angular&logoColor=white&color=dd1b16)
+![](https://img.shields.io/badge/NodeJs-informational?style=flat&logo=node.js&logoColor=white&color=68a063)
 ![](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=5382a1)
 ![](https://img.shields.io/badge/Spring-informational?style=flat&logo=spring&logoColor=white&color=80ea6e)
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=306998)
 ![](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&logoColor=white&color=8993be)
+![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=F29111)
+![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=0064a5)
+![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=4DB33D)
 
 
 ## Github Stats

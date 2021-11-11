@@ -31,6 +31,12 @@
     <img src="https://komarev.com/ghpvc/?username=nikhil-amin8&label=Profile%20views&color=0e75b6&style=plastic" alt="nikhil-amin" />
 </p>
 
+## Stack Overflow
+
+<p align="center">
+	<a href="https://stackoverflow.com/users/9675572/nikhil-amin"><img src="https://stackoverflow.com/users/flair/9675572.png?theme=dark" width="208" height="58" alt="profile for Nikhil Amin at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Nikhil Amin at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+</p>
+
 ## Connect with me
 
 <p align="center">

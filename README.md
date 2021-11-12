@@ -37,9 +37,9 @@
 	<a href="https://stackoverflow.com/users/9675572/nikhil-amin">
 		<img src="https://stackoverflow.com/users/flair/9675572.png?theme=dark" width="200" height="60">
 	</a>
-	<a href="https://stackoverflow.com/users/9675572/nikhil-amin">
+<!-- 	<a href="https://stackoverflow.com/users/9675572/nikhil-amin">
 		<img alt="stackoverflowreputation" width="200" height="60" style="padding:5px" src="https://img.shields.io/stackexchange/stackoverflow/r/9675572?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge"/>
-	</a>
+	</a> -->
 </p>
 
 ## Connect with me

@@ -42,6 +42,14 @@
 	</a> -->
 </p>
 
+### Spotify Playing 🎧
+
+<p align="center">
+	<a href="https://open.spotify.com/user/d1bv951jzgtj53wvnru0nd4c3">
+		<img alt="Spotify Now Playing" style="padding:5px" src="https://spotify-readme-nikhil-amin.vercel.app/api/spotify-playing" width="400"/>
+	</a>
+</p>
+
 ## Connect with me
 
 <p align="center">

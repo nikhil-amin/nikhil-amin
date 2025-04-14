@@ -42,31 +42,25 @@
 	</a> -->
 </p>
 
-### Spotify Playing 🎧
-
-<p align="center">
-	<a href="https://open.spotify.com/user/d1bv951jzgtj53wvnru0nd4c3">
-		<img alt="Spotify Now Playing" style="padding:5px" src="https://spotify-readme-nikhil-amin.vercel.app/api/spotify-playing" width="400"/>
-	</a>
-</p>
-
 ## Connect with me
 
 <p align="center">
 	<a href="https://github.com/nikhil-amin">
-		<img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/>
+		<img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=Mhl1TfJLdkh5&format=png&color=000000"/>
 	</a>
 	<a href="https://www.linkedin.com/in/nikhilamin073/">
-		<img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/>
+		<img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=DYoTRhf8VVC1&format=png&color=000000"/>
 	</a>
-	<a href="https://www.facebook.com/nikhil.amin.73/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
+	<a href="https://www.facebook.com/nikhil.amin.73/">
+		<img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=b2h5ow1Hfzpc&format=png&color=000000"/>
+	</a>
 	<a href="https://www.instagram.com/nikhilamin073/">
-		<img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/>
+		<img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=7QPcOVZoGlmf&format=png&color=000000"/>
 	</a>
 	<a href="https://twitter.com/nikhilamin073">
-		<img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/>
+		<img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=8HtzWaaC5y60&format=png&color=000000"/>
 	</a>
   	<a href="https://discord.gg/v26B9uB">
-		<img alt="discord" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/discord.png"/>
+		<img alt="discord" width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=6Bc9ur2o7rfS&format=png&color=000000"/>
 	</a>
 </p>
